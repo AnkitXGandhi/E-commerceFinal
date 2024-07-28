@@ -1,0 +1,15 @@
+{
+  "name": "e-commercTrendyCartping-website-main",
+  "version": "1.0.0",
+  "description": "Abstract:\"TrendyCart\" is a dynamic e-commerce platform built on the MERN stack, catering to  modern shopping needs with user-friendly interfaces and robust functionality. The  platform boasts a comprehensive range of features, including secure login and sign-up  pages ensuring a personalized shopping experience for users. Its intuitive design  encompasses distinct sections for men, women, and kids, facilitating efficient browsing  and product discovery. At the heart of TrendyCart lies its seamless shopping cart functionality, where each  product is meticulously presented with essential details such as images, titles, prices,  quantities, and totals. The cart interface prioritizes user convenience, offering the  flexibility to modify selections and remove items effortlessly. Furthermore, users can  stay informed about the latest offerings and promotions through a dedicated newsletter  subscription section, enhancing engagement and retention. Moreover, TrendyCart empowers administrators with an intuitive backend panel to  manage products efficiently. This includes the ability to add new products, update  existing listings, and oversee inventory seamlessly. The platform's versatility extends  to showcasing new collections and promotional offers on both the main page and shop  sections, ensuring a captivating shopping experience. With its robust architecture and  user-centric design, TrendyCart emerges as a compelling solution for modern e\u0002commerce endeavours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
